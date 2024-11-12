@@ -1,7 +1,6 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=6994CDEE&text=&animation=twinkling&height=80)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Alkatra&color=6994CDEE&weight=500&size=45&duration=3500&pause=3&center=true&vCenter=false&multiline=true&width=1000&height=100&lines=Welcome+to+Ivoryeee's+GitHub!👋)](https://git.io/typing-svg)
-
 ## Studying
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)  ![ts](https://img.shields.io/badge/Typescript-3178C6?style=for-the-badge&logo=Typescript&logoColor=white) ![react](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) ![SQLD](https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=61DAFB) 
 ## Project
@@ -14,6 +13,8 @@
 | 2024.05 | AirBnB | 에어비앤비 리디자인 서비스 | ReactTS |   [Repo](https://github.com/NOW-SOPT-CDSP-TEAM-WEB2/Client) [Web](https://client-omega-blush.vercel.app/) |
 | 2024.07 | Morib | 온전한 몰입을 도울 작업 공간 서비스 | ReactTS |   [Repo](https://github.com/morib-in/Morib-Client) [Web](https://www.morib.in/) |
 
+
+[![rankit-badge](https://badge.rankit.run/badge?name=깃허브아이디)](https://www.rankit.run)
 <!--
 **Ivoryeee/Ivoryeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
