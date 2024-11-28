@@ -11,10 +11,9 @@
 | 2023.10-2023.11 | Farewell | 한 해를 마치며 스스로 회고하는 서비스 | ReactJS |  [Repo](https://github.com/FAREWELL2023/Farewell_FE)    [Web](https://l.instagram.com/?u=http%3A%2F%2F13.125.156.150%2F%3Ffbclid%3DPAAaa8W9o-DluHQ5OtoJ8DmGjZXFhMqJz_rOS5X5h-Lx7_TXB9Y4LKGnGt60E_aem_AflH3M3B7xDK1OXW4mU81hpIiCKNmeC7bOnwyl665HLLn_8TNjtupxJtmTXjltr-a_c&e=AT2GbNYLR2EPuFDze36ZwM-rD8gPTpeXf-gJizEvUqJ28vIdYTzvcdG5ftDqScW_G95L_XHAveDVgoByAoT4VNsmNBSQcY_gHN4H7A)|
 | 2023.11 | SendMyHeart| 안부 인사 자동 생성 서비스 | ReactJS |   [Repo](https://github.com/Likelion-at-SMWU-11th/SendMyHeart-Client)|
 | 2024.05 | AirBnB | 에어비앤비 리디자인 서비스 | ReactTS |   [Repo](https://github.com/NOW-SOPT-CDSP-TEAM-WEB2/Client) [Web](https://client-omega-blush.vercel.app/) |
-| 2024.07 | Morib | 온전한 몰입을 도울 작업 공간 서비스 | ReactTS |   [Repo](https://github.com/morib-in/Morib-Client) [Web](https://www.morib.in/) |
+| 2024.07~ | Morib | 온전한 몰입을 도울 작업 공간 서비스 | ReactTS |   [Repo](https://github.com/morib-in/Morib-Client) [Web](https://www.morib.in/) |
+| 2024.11 | Mcdonald | 맥도날드 리디자인 서비스 | Spring Boot |   [Repo](https://github.com/SOPT-all/35-COLLABORATION-SERVER-MCDONALD) |
 
-
-[![rankit-badge](https://badge.rankit.run/badge?name=깃허브아이디)](https://www.rankit.run)
 <!--
 **Ivoryeee/Ivoryeee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
